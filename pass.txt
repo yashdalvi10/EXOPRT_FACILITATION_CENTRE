@@ -1,0 +1,17 @@
+admin:
+username: admin@gmail.com
+pass: admin123
+
+vender:
+username: shop101@gmail.com
+pass: Yashdalvi@10
+
+username: sugar@gmail.com
+pass: Yashdalvi@10
+
+
+
+user:
+
+username: ydalvi565@gmail.com
+pass: Yashdalvi@10
